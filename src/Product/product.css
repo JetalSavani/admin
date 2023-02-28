@@ -1,0 +1,7 @@
+.starlabel label:after { content:" *"; color: red; }
+
+
+label{
+    font-weight: 600;
+}
+
